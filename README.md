@@ -26,3 +26,4 @@ BTech in Computer Science Engineering (2nd Year)
 
 ## Contact
 GitHub: https://github.com/naseehmk
+Linkdin: linkdin.com/in/naseehmk

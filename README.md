@@ -1,4 +1,4 @@
-#👋 Hi, I'm Naseeh M
+#👋 Hi, I'm Naseeh Manikkoth
 BTech Computer Science Engineering student
 
 ## Skills
